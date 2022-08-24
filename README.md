@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shazzad46334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shazzad46334" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shazzad-hossain-b8aa20208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shazzad-hossain-b8aa20208/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shazzadhk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shazzadhk12" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shazzadhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shazzadhk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shazzadhk12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shazzadhk12/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shazzad-hossain-b8aa20208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazzad-hossain-b8aa20208/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/shazzadhk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shazzadhk12" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/shazzadhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shazzadhk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shazzadhk12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shazzadhk12/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
