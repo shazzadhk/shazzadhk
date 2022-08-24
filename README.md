@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shazzad Hossain Khan</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazzadhk&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhk" /> </p>
 
 - 🌱 I’m currently learning **React JS**
